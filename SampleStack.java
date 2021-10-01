@@ -8,9 +8,8 @@ public class SampleStack{
         stack.push("Naveen");  
         stack.push("Fahad");
         stack.pop();
-        
+
         Iterator<String> itr=stack.iterator();  
-        
         while(itr.hasNext()){  
             System.out.println(itr.next());  
         }  
