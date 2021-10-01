@@ -11,7 +11,6 @@ class SampleLinkedList {
         while(itr.hasNext()){  
             System.out.println(itr.next());  
         }  
-
         }  
     }  
 }
