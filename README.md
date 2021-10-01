@@ -1,1 +1,1 @@
-# Collection
+# To learn about different samples for Java Collection
